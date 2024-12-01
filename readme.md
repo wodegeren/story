@@ -1,1 +1,1 @@
-＃ 用github写小说的尝试
+# Hi 用github写小说的尝试
